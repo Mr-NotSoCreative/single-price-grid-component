@@ -124,6 +124,9 @@ header h2 {
   .card2 {
     gap: 40px;
   }
+  .attribution {
+    margin: 0;
+  }
 }
 @media screen and (max-width: 357px) {
   .container {
