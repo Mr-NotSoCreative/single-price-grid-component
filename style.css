@@ -80,11 +80,13 @@ header h2 {
   align-items: center;
   margin-bottom: 10px;
   gap: 10px;
+  font-weight: 700;
 }
 .lightgray {
   font-size: 0.8rem;
   display: block;
   color: var(--Light-Gray);
+  font-weight: 400;
 }
 .card2 {
   display: grid;
