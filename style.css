@@ -64,6 +64,7 @@ h1 {
   color: var(--Bright-Yellow);
   font-weight: 700;
   margin-bottom: 15px;
+  font-size: 1.2rem;
 }
 .card1-desc {
   color: var(--Grayish-Blue);
