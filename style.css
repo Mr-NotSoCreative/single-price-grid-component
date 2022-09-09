@@ -20,6 +20,7 @@ body {
   min-height: 100vh;
   display: grid;
   place-items: center;
+  place-content: center;
 }
 ul {
   line-height: 23px;
@@ -37,7 +38,7 @@ li {
   box-shadow: 0px 17px 27px 1px rgba(41, 95, 142, 0.25);
   -webkit-box-shadow: 0px 17px 27px 1px rgba(41, 95, 142, 0.25);
   -moz-box-shadow: 0px 17px 27px 1px rgba(41, 95, 142, 0.25);
-  margin: 0 1.5rem;
+  margin: 2rem 1.5rem 0 1.5rem;
 }
 .card {
   padding: 40px;
@@ -77,11 +78,11 @@ header h2 {
   display: flex;
   align-items: center;
   margin-bottom: 10px;
+  gap: 10px;
 }
 .lightgray {
   font-size: 0.8rem;
   display: block;
-  margin-left: 10px;
   color: var(--Light-Gray);
 }
 .card2 {
@@ -104,6 +105,14 @@ header h2 {
 }
 .btn:hover {
   background-color: tomato;
+}
+.attribution {
+  margin-top: 25px;
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
 @media screen and (max-width: 687px) {
   .container {
