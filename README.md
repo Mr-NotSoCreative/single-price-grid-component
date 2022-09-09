@@ -47,8 +47,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Mr-NotSoCreative/single-price-grid-component)
+- Live Site URL: [live site](https://mr-notsocreative.github.io/single-price-grid-component/)
 
 ## My process
 
